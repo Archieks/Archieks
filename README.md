@@ -89,7 +89,7 @@ Data Analytics · Business Intelligence · Analytics Engineering · Data Enginee
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Brito-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/matheus-aguiar-bi-strategy/](https://www.linkedin.com/in/matheus-aguiar-bi-strategy/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Brito-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/matheus-aguiar-bi-strategy/])
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheus.aguiarbrito@gmail.com)
 
